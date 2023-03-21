@@ -1,0 +1,22 @@
+{
+  "blank": "",
+  "loadingText": "Memuat...",
+  "loginTitle": "Masuk",
+  "hintEmailLogin": "Masukkan surelmu di sini",
+  "hintPasswordLogin": "Masukkan kata sandimu di sini",
+  "loginUserNotFound": "Pengguna tidak ditemukan",
+  "mLoginUserNotFound": "Tidak ada pengguna yang sesuai. Pengguna mungkin sudah dihapus.",
+  "loginWrongPassword": "Kata sandi salah",
+  "mLoginWrongPassword": "Kata sandi tidak valid atau pengguna tidak memiliki kata sandi.",
+  "loginTextButton": "Masuk",
+  "registerTitle": "Daftar",
+  "hintEmailRegister": "Masukkan surelmu di sini",
+  "hintPasswordRegister": "Masukkan kata sandimu di sini",
+  "registerWeakPassword": "Kata sandi lemah",
+  "mRegisterWeakPassword": "Kata sandi harus memiliki paling tidak 6 karakter",
+  "registerEmailAlreadyInUse": "Surel sudah digunakan",
+  "mRegisterEmailAlreadyInUse": "Surel sudah digunakan oleh akun lain",
+  "registerInvalidEmail": "Surel tidak valid",
+  "mRegisterInvalidEmail": "Format surel tidak valid",
+  "registerTextButton": "Daftar"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593025124035",
+    "project_id": "id-dipoengoro-mynotes",
+    "storage_bucket": "id-dipoengoro-mynotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593025124035:android:442c214223fbc8d3470476",
+        "android_client_info": {
+          "package_name": "id.dipoengoro.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593025124035-0puhbceh5q6g51jpkq68ao14n3ejqvcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB4SskFaipc6rbMTsc127D3n6kewxUB1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593025124035-0puhbceh5q6g51jpkq68ao14n3ejqvcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

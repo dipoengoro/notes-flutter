@@ -1,0 +1,22 @@
+{
+  "blank": "",
+  "loadingText": "Loading...",
+  "loginTitle": "Login",
+  "hintEmailLogin": "Enter your email here",
+  "hintPasswordLogin": "Enter your password here",
+  "loginUserNotFound": "User not found",
+  "mLoginUserNotFound": "There is no user record corresponding to this identifier. The user may have been deleted.",
+  "loginWrongPassword": "Wrong password",
+  "mLoginWrongPassword": "The password is invalid or the user does not have a password.",
+  "loginTextButton": "Login",
+  "registerTitle": "Register",
+  "hintEmailRegister": "Enter your email here",
+  "hintPasswordRegister": "Enter your password here",
+  "registerWeakPassword": "Weak password",
+  "mRegisterWeakPassword": "Password should be at least 6 characters",
+  "registerEmailAlreadyInUse": "Email is already in use",
+  "mRegisterEmailAlreadyInUse": "The email address is already in use by another account",
+  "registerInvalidEmail": "Invalid email",
+  "mRegisterInvalidEmail": "The email address is badly formatted",
+  "registerTextButton": "Register"
+}
